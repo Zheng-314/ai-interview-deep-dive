@@ -21,3 +21,6 @@ cache/
 staging/
 .DS_Store
 tsconfig.tsbuildinfo
+
+.vercel
+.env*
