@@ -1,0 +1,23 @@
+node_modules
+.next
+out
+.env*
+!.env.example
+npm-debug.log*
+
+# 本地与私有文档（不公开）
+offercraft-state.json
+eval-results.json
+00-anchor.md
+10-charter.md
+20-devdoc.md
+30-devlog.md
+40-deploy.md
+50-resume-material.md
+60-retro.md
+70-public/
+tmp/
+cache/
+staging/
+.DS_Store
+tsconfig.tsbuildinfo
